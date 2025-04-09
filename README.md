@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Artificial Intelligence**
 
 - 💬 Ask me about **Python, HTML, CSS, JAVASCRIPT**
 
